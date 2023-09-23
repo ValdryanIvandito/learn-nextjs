@@ -1,0 +1,9 @@
+npx create-next-app@latest
+or
+npm install -g create-next-app
+
+for old version nodejs: npx create-next-app@10 article-with-next
+to switch another version: npm install next@11
+
+npm install bootstrap
+npm install reactstrap@8.x.x
