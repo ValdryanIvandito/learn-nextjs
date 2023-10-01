@@ -1,0 +1,12 @@
+import React from "react";
+
+const UserNotFoundPage = () => {
+  return (
+    <div>
+      <h1>Error 404</h1>
+      <p>This user doesn&apos;t exist</p>
+    </div>
+  );
+};
+
+export default UserNotFoundPage;
