@@ -29,7 +29,7 @@ to switch another version:
 npm install next@11
 ```
 
-# Install CSS Framework On Next.JS
+# Install Bootstrap on Next.js
 
 ```
 npm install bootstrap
