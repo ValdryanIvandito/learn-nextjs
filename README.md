@@ -1,9 +1,10 @@
 # References
 
 - https://nextjs.org/
+- https://members.codewithmosh.com/courses/enrolled/2178940
 - https://www.udemy.com/course/nextjs-react-the-complete-guide/
 - https://www.youtube.com/watch?v=sXDwatqav6g&list=PLtHSjG_6PalpVZyjVuoA5fVzRXOr6tVcn
-- https://members.codewithmosh.com/courses/enrolled/2178940
+
 
 # Get Started
 
